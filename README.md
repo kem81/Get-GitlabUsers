@@ -47,7 +47,7 @@ This will give you the list of group ID’s
 
 For this example we will get the group members for ‘Any Group Here’ which is the first group in the list.
 
-we can see the ID=450 for the aadc group
+we can see the ID=450 for the "Group Name" group
 
 
 
